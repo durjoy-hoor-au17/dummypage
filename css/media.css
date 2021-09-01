@@ -1,0 +1,53 @@
+@media screen and (max-width: 1230px) {
+    .phone {
+        height: 65%;
+    }
+
+    nav .nav-items {
+        display: none;
+    }
+
+    nav .nav-menu-icons {
+        display: block;
+        margin: auto;
+    }
+
+    nav .nav-menu-icons i {
+        color: #CAD5E2;
+        font-size: 37px;
+    }
+
+    .left_content {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 1035px) {
+    .phone {
+        height: 55%;
+    }
+
+    .left-logo {
+        height: 80px;
+    }
+
+    .left_content {
+        align-items: center;
+    }
+
+}
+
+@media screen and (max-width: 700px) {
+    .phone {
+        display: none;
+    }
+
+    .left-logo {
+        height: 150px;
+    }
+
+    .left_content {
+        align-items: center;
+    }
+
+}
