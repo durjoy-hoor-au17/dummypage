@@ -1,5 +1,5 @@
-# dummypage
-Its an LCO Dummy Webpage for modern web devlopment
+# dummy page of Codder
+Its an Codder Dummy Webpage for modern web devlopment
 
 its only use of:
 * HTML 
